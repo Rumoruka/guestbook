@@ -1,0 +1,96 @@
+body {
+	background-image: url(img/sf_bg.PNG);
+	background-color: #D3D3D3;
+	margin: 0;
+	padding: 0;
+	margin-top: 10px;
+}
+
+a {
+	background: #B0C4DE;
+	border-radius: 10px;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+a:hover {
+	background: #97FFFF;
+}
+
+img {
+	border: none;
+}
+
+#form {
+   text-align: center;
+}
+
+#formButtons {
+	text-align: center;
+}
+
+.queryType {
+	text-align: center;
+	font-weight: bold;
+	display: inline;
+}
+
+#queryType1{
+	float: left;
+	margin-left: 30%;
+	margin-bottom: 10px;
+}
+
+#queryType2{
+	float: lright;
+	margin-right: 25%;
+	margin-bottom: 10px;
+}
+
+#queryType3{
+	float: left;
+	margin-left: 29%;
+}
+
+#queryType4{
+	float: lright;
+	margin-right: 25%;
+}
+
+#resp {
+	text-align: center;
+	font-weight: 800;
+	font-size: 25px;
+	color: #CD2626;
+}
+
+#num_row{
+	text-align: left;
+	margin-left: 25%;
+	width: 50%;
+}
+
+#num_row p{
+	font-style: italic;
+	font-weight: 600;
+}
+
+#responses {
+	text-align: left;
+}
+
+#responses a {
+	background: none;
+}
+
+#responses table {
+	background-color: #AAAAAA;
+	border: 0;
+	width: 50%;
+	border-spacing: 1px;
+	margin-left: 25%;
+}
+
+#date {
+	float: right;
+}
